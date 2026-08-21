@@ -75,13 +75,13 @@ Docker            █████████████░░░░░░░  
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=p-feiteira&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=p-feiteira&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=p-feiteira&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=feiteiradotdev&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=feiteiradotdev&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=feiteiradotdev&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=p-feiteira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=feiteiradotdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -99,4 +99,4 @@ Docker            █████████████░░░░░░░  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=p-feiteira&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=feiteiradotdev&icon=2&color=3)](https://visitcount.itsvg.in)
