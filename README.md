@@ -87,7 +87,7 @@ Docker            █████████████░░░░░░░  
 
 ## 🌐 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-feiteira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feiteiradotdev/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/feiteira_dev)
 [![Portfolio](https://img.shields.io/badge/feiteira.dev-000000?style=flat&logo=github&logoColor=white)](https://feiteira.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedrofeiteira.dev@gmail.com)
