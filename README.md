@@ -65,7 +65,5 @@ Python · FastAPI · React/Next.js · AWS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feiteiradev/)
 [![Site](https://img.shields.io/badge/feiteiradev.github.io-000000?style=flat&logo=github&logoColor=white)](https://feiteiradev.github.io/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/feiteiradev)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedrofeiteira.dev@gmail.com)
-
-<!-- [CONFIRMAR: handle final do X] — o badge fica de fora até ser confirmado.
-     O antigo x.com/feiteira_dev não é seguro de publicar. -->
